@@ -133,7 +133,6 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 其他,#genre#
-广东体育,http://113.66.5.224:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://219.137.29.213:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
